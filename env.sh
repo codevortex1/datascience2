@@ -1,0 +1,7 @@
+export GIT_PARENT_DIR=/data/informatica/python
+export GIT_REPO_NAME=datascience2
+export GIT_BRANCH_NAME=main
+export GIT_USER=codevortex1
+export GIT_EMAIL=prabirkumardhar@gmail.com
+export GITHUB_ACCESS_TOKEN=b09b57e366cb972a857c53a74debc7619ad5077e
+export GIT_USER_UPSTREAM=codevortex1
