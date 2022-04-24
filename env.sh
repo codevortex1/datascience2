@@ -3,5 +3,5 @@ export GIT_REPO_NAME=datascience2
 export GIT_BRANCH_NAME=main
 export GIT_USER=codevortex1
 export GIT_EMAIL=prabirkumardhar@gmail.com
-export GITHUB_ACCESS_TOKEN=b09b57e366cb972a857c53a74debc7619ad5077e
+export GITHUB_ACCESS_TOKEN=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
 export GIT_USER_UPSTREAM=codevortex1
